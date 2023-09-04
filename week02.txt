@@ -1,5 +1,5 @@
 week02
-- linux command : ls, ls -a, ls -al, pwd, cd ..
+- linux command : ls, ls -a, ls -al, pwd, cd .. echo "<text>" >> README.md
 - git command
   git config --global --list
   git init
@@ -7,3 +7,9 @@ week02
   git add <file>
   git commit -m "<msg>"
   git log
+  git checkout <hashcode>
+  git checkout -
+  git branch -M main
+  git remote add origin <link>
+  git remote -v
+  git push -u origin main

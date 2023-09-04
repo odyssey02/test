@@ -1,0 +1,9 @@
+week02
+- linux command : ls, ls -a, ls -al, pwd, cd ..
+- git command
+  git config --global --list
+  git init
+  git status
+  git add <file>
+  git commit -m "<msg>"
+  git log
